@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="motion_scripts" type="planning_script.py" name="move_group_arm" output="screen" />
+</launch>
